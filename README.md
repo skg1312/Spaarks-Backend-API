@@ -1,4 +1,4 @@
-# Spaarks Backend Developer Assignment - Restaurant API
+# Spaarks Backend Developer - Restaurant API
 
 ## Overview
 
