@@ -20,7 +20,7 @@ mongoose.connect(process.env.MONGODB_URI)
 
 // Basic route
 app.get('/', (req, res) => {
-    res.send('API is running...');
+    res.send('API is working....!');
   });
   
 const PORT = process.env.PORT || 3000;
